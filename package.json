@@ -1,0 +1,9 @@
+{
+  "name": "solidity-smartcontract-updraft",
+  "version": "1.0.0",
+  "description": "Solidity Smart contracts template/updraft. Advanced Solidity Concepts",
+  "main": "index.ts",
+  "repository": "git@github.com:Enockkipkoech/soilidity-smartcontract-updraft.git",
+  "author": "Enockkipkoech <enockkipkoech19@gmail.com>",
+  "license": "MIT"
+}
